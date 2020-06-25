@@ -1,0 +1,7 @@
+﻿  2sem_tiit2.3.cpp
+C:\Users\Pasha\source\repos\2sem_tiit2.3\2sem_tiit2.3\2sem_tiit2.3.cpp(19,5): error C2062: тип "int" не требуется
+C:\Users\Pasha\source\repos\2sem_tiit2.3\2sem_tiit2.3\2sem_tiit2.3.cpp(19,5): error C2059: синтаксическая ошибка: )
+C:\Users\Pasha\source\repos\2sem_tiit2.3\2sem_tiit2.3\2sem_tiit2.3.cpp(19,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Pasha\source\repos\2sem_tiit2.3\2sem_tiit2.3\2sem_tiit2.3.cpp(19,23): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Pasha\source\repos\2sem_tiit2.3\2sem_tiit2.3\2sem_tiit2.3.cpp(153,32): error C2065: i: необъявленный идентификатор
+C:\Users\Pasha\source\repos\2sem_tiit2.3\2sem_tiit2.3\2sem_tiit2.3.cpp(155,25): error C2065: i: необъявленный идентификатор
